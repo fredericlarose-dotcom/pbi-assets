@@ -1,0 +1,244 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : Countries flags + logos.ai
+Mode : Couleurs CMJN
+Profil colorimétrique : Sans
+Unité : centimètres
+Dimensions : 36,6345 cm x 36,8971 cm
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :SANS
+
+-----------------------------------------------------------------------------
+Polices :
+SANS
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+SANS
+
+-----------------------------------------------------------------------------
+Images liées :
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/IT flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/FR flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,329 x 608,121 points 
+Résolution : 99,809 x 99,809 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/BR flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/ES plag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/PT flag (1).png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/South Africa.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/UKRAINE flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/GREECE flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/BR flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/FR flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,329 x 608,121 points 
+Résolution : 99,809 x 99,809 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/OBRAMAT logo APP.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 282K, 267 x 271 pixels
+Dimensions : 283,63 x 287,879 points 
+Résolution : 67,778 x 67,778 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/ES plag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/OBRAMAT logo APP.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 282K, 267 x 271 pixels
+Dimensions : 283,63 x 287,879 points 
+Résolution : 67,778 x 67,778 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/PT flag (1).png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/POLAND flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/POLAND flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/POLAND flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/IT flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/IT flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/FR flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,329 x 608,121 points 
+Résolution : 99,809 x 99,809 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/FR flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,329 x 608,121 points 
+Résolution : 99,809 x 99,809 pixels par pouce
+
+
+/Utilisateurs/20015746/Documents/Crea/Countries flags + logos_Dossier/Links/RO flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,767 x 608,416 points 
+Résolution : 99,761 x 99,761 pixels par pouce
+
+
+/Utilisateurs/20015746/Téléchargements/CYPRUS flag.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 4132K, 1255 x 843 pixels
+Dimensions : 905,769 x 608,417 points 
+Résolution : 99,761 x 99,761 pixels par pouce
